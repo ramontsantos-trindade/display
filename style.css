@@ -1,0 +1,38 @@
+body{
+    align-items: flex-start;
+    display: flex;
+}
+
+
+
+.blue{
+
+    padding: 100px;
+    background-color: rgb(39, 137, 230);
+    
+}
+
+.yo{
+
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(255, 226, 61);
+}
+
+.red{
+
+    padding-right: 350px;
+    background-color: rgb(201, 34, 34);
+}
+
+.green{
+
+    background-color: green;
+    padding-bottom: 300px;
+}
+
+.flex{
+
+    display: flex ;
+}
+
